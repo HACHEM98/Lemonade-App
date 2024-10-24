@@ -34,6 +34,10 @@ The Lemonade App is a fun, interactive Android application built using Jetpack C
 - Jetpack Compose: Modern UI toolkit used to create declarative UI components.
 - Material 3: For UI components and theming.
 - AndroidX libraries:
-androidx.lifecycle:lifecycle-runtime-ktx
-androidx.activity:activity-compose
-androidx.core:core-ktx
+   - androidx.lifecycle:lifecycle-runtime-ktx
+   - androidx.activity:activity-compose
+   - androidx.core:core-ktx
+## How the App Works:
+1. UI Interaction: Users interact with clickable images that change based on the current step of the lemonade-making process.
+2. State Management: The app uses remember and mutableStateOf to keep track of the current step and squeeze count.
+3. Dynamic Content: Images and texts are dynamically loaded based on the current step using painterResource and stringResource.

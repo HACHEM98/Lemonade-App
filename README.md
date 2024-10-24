@@ -22,3 +22,17 @@ The Lemonade App is a fun, interactive Android application built using Jetpack C
 - Min SDK: 24
 - Target SDK: 34
 ### Build Instructions:
+1. Clone the repository.
+   ```bash
+git clone https://github.com/username/lemonade-app.git
+2. Open the project in Android Studio.
+3. Sync the project with Gradle by clicking on Sync Now when prompted.
+4. Run the app on an Android emulator or a physical device.
+## Technologies Used:
+- Kotlin: Primary language for Android development.
+- Jetpack Compose: Modern UI toolkit used to create declarative UI components.
+- Material 3: For UI components and theming.
+- AndroidX libraries:
+androidx.lifecycle:lifecycle-runtime-ktx
+androidx.activity:activity-compose
+androidx.core:core-ktx

@@ -15,3 +15,9 @@ The Lemonade App is a fun, interactive Android application built using Jetpack C
 - Step 2: Squeeze the lemon multiple times until all juice is extracted.
 - Step 3: Drink the lemonade.
 - Step 4: Restart the process with an empty glass.
+## Setup Instructions
+### Prerequisites: 
+- Android Studio .
+- Kotlin 1.8.0 .
+- Min SDK: 24
+- Target SDK: 34

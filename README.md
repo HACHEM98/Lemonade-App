@@ -41,3 +41,8 @@ The Lemonade App is a fun, interactive Android application built using Jetpack C
 1. UI Interaction: Users interact with clickable images that change based on the current step of the lemonade-making process.
 2. State Management: The app uses remember and mutableStateOf to keep track of the current step and squeeze count.
 3. Dynamic Content: Images and texts are dynamically loaded based on the current step using painterResource and stringResource.
+
+## Screenshots
+![Dice Roller Screenshot](screenshots/dice_roller.png)
+## License
+This project is licensed under the MIT License .

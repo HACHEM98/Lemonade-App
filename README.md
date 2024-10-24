@@ -7,6 +7,6 @@ The Lemonade App is a fun, interactive Android application built using Jetpack C
 - Clickable images to transition through different stages of lemonade making.
 - Scaffold-based UI structure using Material 3 design components.
 ## Project Structure
-MainActivity.kt: The main entry point for the app, sets up the UI using Jetpack Compose.
-LemonadeApp(): Composable function that defines the main app structure, including a top bar and content scaffold.
-LemonadeProcess(): Contains the logic for switching between the different steps of making lemonade (lemon tree, squeezing, drinking, and restart).
+- MainActivity.kt: The main entry point for the app, sets up the UI using Jetpack Compose.
+- LemonadeApp(): Composable function that defines the main app structure, including a top bar and content scaffold.
+- LemonadeProcess(): Contains the logic for switching between the different steps of making lemonade (lemon tree, squeezing, drinking, and restart).

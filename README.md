@@ -21,3 +21,4 @@ The Lemonade App is a fun, interactive Android application built using Jetpack C
 - Kotlin 1.8.0 .
 - Min SDK: 24
 - Target SDK: 34
+### Build Instructions:

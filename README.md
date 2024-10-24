@@ -23,8 +23,8 @@ The Lemonade App is a fun, interactive Android application built using Jetpack C
 - Target SDK: 34
 ### Build Instructions:
 1. Clone the repository.
-```bash
-git clone https://github.com/username/lemonade-app.git
+   ```bash
+   git clone https://github.com/username/lemonade-app.git
 
 2. Open the project in Android Studio.
 3. Sync the project with Gradle by clicking on Sync Now when prompted.
